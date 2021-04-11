@@ -1,6 +1,6 @@
 # SQL-Challenge
 
-This analysis involves setting up an employee database for a fictitious "Pewlett Hackard", using the data from the [Employee CSV Files](https://github.com/lmfao415/SQL-Challenge/tree/main/EmployeeSQL/data).
+This analysis involves setting up sample employee database for "Pewlett Hackard", using data from the [Employee CSV Files](https://github.com/lmfao415/SQL-Challenge/tree/main/EmployeeSQL/data).
 
 An [Entity Relationship Diagram](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/EmployeeERD.png) was created to illustrate the data relationships.
 
