@@ -1,6 +1,6 @@
 # SQL Databse Creation and Analysis
 
-This analysis involves setting up sample relational employee database for *Pewlett Hackard*, using data from the [Employee CSV Files](https://github.com/lmfao415/SQL-Challenge/tree/main/EmployeeSQL/data).
+This analysis involves setting up sample relational employee database using data from the [Employee CSV Files](https://github.com/lmfao415/SQL-Challenge/tree/main/EmployeeSQL/data).
 
 An [Entity Relationship Diagram](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/EmployeeERD.png) is first created to illustrate the data relationships:
 ![png](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/EmployeeERD.png?raw=true)
