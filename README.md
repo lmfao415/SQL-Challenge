@@ -8,3 +8,5 @@ An [Entity Relationship Diagram](https://github.com/lmfao415/SQL-Challenge/blob/
 The data was imported to SQL using this [Table Schemata](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/table_schemata.sql) with various [SQL Queries](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/employee_queries.sql) being used to then analyze the data.
 
 Further analysis involving Pandas and Matplotlib visualization is [available HERE](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/bonus_analysis.ipynb) for which an additional [SQL View](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/bonus_view.sql) was created.
+
+![img](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/salaries.png?raw=true)
