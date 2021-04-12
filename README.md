@@ -26,6 +26,20 @@ With the employee database set, the data can be analyzed. Provided here are vari
 
 8. In descending order, lists the frequency count of employee last names, i.e., how many employees share each last name.
 
-Further analysis involving Pandas and Matplotlib visualization with SQLAlchemy is available in the [bonus_analysis](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/bonus_analysis.ipynb) Jupyter Notebook for which an additional [SQL View](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/bonus_view.sql) is needed.
+Example query:
+
+![samp](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/query.png?raw=true)
+
+
+
+Further analysis involving Pandas and Matplotlib visualization via SQLAlchemy is available in the [bonus_analysis](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/bonus_analysis.ipynb) Jupyter Notebook for which an additional [SQL View](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/bonus_view.sql) is needed.
+
+This Notebook imports the data from SQL to create:
+
+A histogram to visualize the most common salary ranges for employees.
+
+![img](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/hist.png?raw=true)
+
+A bar chart of average salary by title.
 
 ![img](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/salaries.png?raw=true)
