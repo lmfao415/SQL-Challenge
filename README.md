@@ -8,7 +8,7 @@ An [Entity Relationship Diagram](https://github.com/lmfao415/SQL-Challenge/blob/
 The data can be imported from the CSV files to SQL using this [Table Schemata](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/table_schemata.sql) based on the ERD.
 
 
-With the employee database set, the data can be analyzed. Provided here are various [SQL Queries](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/employee_queries.sql) performing the following:
+With the employee database set, the data can be analyzed. Provided in the [employee_queries](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/employee_queries.sql) are various SQL queries performing the following:
 
 1. Lists the following details of each employee: employee number, last name, first name, sex, and salary.
 
