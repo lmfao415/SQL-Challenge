@@ -2,7 +2,7 @@
 
 This analysis involves setting up sample relational employee database using data from the [Employee CSV Files](https://github.com/lmfao415/SQL-Challenge/tree/main/EmployeeSQL/data).
 
-An [Entity Relationship Diagram](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/EmployeeERD.png) is first created to illustrate the data relationships:
+An [Entity Relationship Diagram](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/EmployeeERD.png) reflecting the data in the CSV files is first created to illustrate the data relationships:
 ![png](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/EmployeeERD.png?raw=true)
 
 The data can be imported from the CSV files to SQL using this [Table Schemata](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/table_schemata.sql).
