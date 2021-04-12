@@ -32,6 +32,7 @@ Example query:
 
 
 
+
 Further analysis involving Pandas and Matplotlib visualization via SQLAlchemy is available in the [bonus_analysis](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/bonus_analysis.ipynb) Jupyter Notebook for which an additional [SQL View](https://github.com/lmfao415/SQL-Challenge/blob/main/EmployeeSQL/bonus_view.sql) is needed.
 
 This Notebook imports the data from SQL to create:
